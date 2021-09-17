@@ -20,8 +20,8 @@ int main (int argc,char* argv[])
                cout<<argv[i]<<endl;
           }
      }
-
-     cin.get();
+     // Esperar un salto de linea para cerrar la aplicación.
+     cin.get(); 
 
      return 0;
 }
