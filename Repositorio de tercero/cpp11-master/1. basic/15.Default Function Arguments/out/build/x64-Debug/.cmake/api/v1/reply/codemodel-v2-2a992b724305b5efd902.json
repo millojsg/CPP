@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "15_Default_Function_Arguments",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "15_Default_Function_Arguments::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-15_Default_Function_Arguments-Debug-5aa8e81edfee3a9156ae.json",
+					"name" : "15_Default_Function_Arguments",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Desarrollo/Downloads/cpp11-master/1. basic/15.Default Function Arguments/out/build/x64-Debug",
+		"source" : "C:/Users/Desarrollo/Downloads/cpp11-master/1. basic/15.Default Function Arguments"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

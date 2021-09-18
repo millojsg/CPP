@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "12_Auto_keyword",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "12_Auto_keyword::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-12_Auto_keyword-Debug-9a6280abcf8a4a82bd65.json",
+					"name" : "12_Auto_keyword",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Desarrollo/Downloads/cpp11-master/1. basic/12.Auto keyword/out/build/x64-Debug",
+		"source" : "C:/Users/Desarrollo/Downloads/cpp11-master/1. basic/12.Auto keyword"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

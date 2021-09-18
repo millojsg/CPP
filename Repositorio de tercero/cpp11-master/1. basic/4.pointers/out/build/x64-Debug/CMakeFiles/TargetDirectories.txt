@@ -1,0 +1,3 @@
+C:/Users/Desarrollo/Downloads/cpp11-master/1. basic/4.pointers/out/build/x64-Debug/CMakeFiles/4_pointers.dir
+C:/Users/Desarrollo/Downloads/cpp11-master/1. basic/4.pointers/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Desarrollo/Downloads/cpp11-master/1. basic/4.pointers/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

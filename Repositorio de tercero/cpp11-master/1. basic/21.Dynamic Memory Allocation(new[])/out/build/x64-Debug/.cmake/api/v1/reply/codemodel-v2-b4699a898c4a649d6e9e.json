@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "21_Dynamic_Memory_Allocation_new___",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "21_Dynamic_Memory_Allocation_new___::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-21_Dynamic_Memory_Allocation_new___-Debug-f2f21dcb68d9059e4d89.json",
+					"name" : "21_Dynamic_Memory_Allocation_new___",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Desarrollo/Downloads/cpp11-master/1. basic/21.Dynamic Memory Allocation(new[])/out/build/x64-Debug",
+		"source" : "C:/Users/Desarrollo/Downloads/cpp11-master/1. basic/21.Dynamic Memory Allocation(new[])"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

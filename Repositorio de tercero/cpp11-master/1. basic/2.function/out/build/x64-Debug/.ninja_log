@@ -1,0 +1,6 @@
+# ninja log v5
+1	267	6535543437518944	CMakeFiles/2_function.dir/math.cpp.obj	9b03cc58662dc755
+5	505	6535543439850593	CMakeFiles/2_function.dir/main.cpp.obj	2460ade63ab3dbe9
+506	891	6535543443312051	2_function.exe	dd8f3b73490e053c
+1	640	6535544895654978	CMakeFiles/2_function.dir/main.cpp.obj	2460ade63ab3dbe9
+641	863	6535544897554936	2_function.exe	dd8f3b73490e053c
