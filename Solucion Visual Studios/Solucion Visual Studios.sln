@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Estructura basica", "Estruc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Matrices vectores", "Matrices vectores\Matrices vectores.vcxproj", "{23CFEB1F-F49D-490E-B93C-3513F7176088}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sizeof", "sizeof\sizeof.vcxproj", "{F5011A88-16C0-439C-AE89-8294E47F4DD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{23CFEB1F-F49D-490E-B93C-3513F7176088}.Release|x64.Build.0 = Release|x64
 		{23CFEB1F-F49D-490E-B93C-3513F7176088}.Release|x86.ActiveCfg = Release|Win32
 		{23CFEB1F-F49D-490E-B93C-3513F7176088}.Release|x86.Build.0 = Release|Win32
+		{F5011A88-16C0-439C-AE89-8294E47F4DD5}.Debug|x64.ActiveCfg = Debug|x64
+		{F5011A88-16C0-439C-AE89-8294E47F4DD5}.Debug|x64.Build.0 = Debug|x64
+		{F5011A88-16C0-439C-AE89-8294E47F4DD5}.Debug|x86.ActiveCfg = Debug|Win32
+		{F5011A88-16C0-439C-AE89-8294E47F4DD5}.Debug|x86.Build.0 = Debug|Win32
+		{F5011A88-16C0-439C-AE89-8294E47F4DD5}.Release|x64.ActiveCfg = Release|x64
+		{F5011A88-16C0-439C-AE89-8294E47F4DD5}.Release|x64.Build.0 = Release|x64
+		{F5011A88-16C0-439C-AE89-8294E47F4DD5}.Release|x86.ActiveCfg = Release|Win32
+		{F5011A88-16C0-439C-AE89-8294E47F4DD5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

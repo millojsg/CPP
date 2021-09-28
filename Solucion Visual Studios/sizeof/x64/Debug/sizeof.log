@@ -1,0 +1,8 @@
+﻿  sizeof.cpp
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\sizeof\sizeof.cpp(29,9): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\sizeof\sizeof.cpp(29,9): message : considere el uso de ' %zd' en la cadena de formato
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\sizeof\sizeof.cpp(30,9): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\sizeof\sizeof.cpp(30,9): message : considere el uso de ' %zd' en la cadena de formato
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\sizeof\sizeof.cpp(31,9): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'size_t'
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\sizeof\sizeof.cpp(31,9): message : considere el uso de ' %zd' en la cadena de formato
+  sizeof.vcxproj -> C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\x64\Debug\sizeof.exe
