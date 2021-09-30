@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 #include <stdio.h>
 #define NAME_LENGTH 10
 #define TABLE_SIZE 100
@@ -37,7 +37,6 @@ int main(int argc, char* argv[])
 	cout << "Size of float : " << sizeof(float) << endl;
 	cout << "Size of double : " << sizeof(double) << endl;
 	cout << "Size of wchar_t : " << sizeof(wchar_t) << endl;
-
 
 	return 0;
 }

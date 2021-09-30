@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Matrices vectores.cpp">
+    <ClCompile Include="Matrices.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
