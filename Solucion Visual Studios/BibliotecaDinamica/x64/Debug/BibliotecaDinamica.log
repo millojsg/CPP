@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MathLibrary.cpp
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\BibliotecaDinamica\MathLibrary.cpp(18,1): warning C4273: 'fibonacci_init': vinculación de DLL incoherente
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\BibliotecaDinamica\MathLibrary.h(22,33): message : vea la definición anterior de 'fibonacci_init'
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\BibliotecaDinamica\MathLibrary.cpp(27,1): warning C4273: 'fibonacci_next': vinculación de DLL incoherente
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\BibliotecaDinamica\MathLibrary.h(28,33): message : vea la definición anterior de 'fibonacci_next'
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\BibliotecaDinamica\MathLibrary.cpp(48,1): warning C4273: 'fibonacci_current': vinculación de DLL incoherente
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\BibliotecaDinamica\MathLibrary.h(31,47): message : vea la definición anterior de 'fibonacci_current'
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\BibliotecaDinamica\MathLibrary.cpp(54,1): warning C4273: 'fibonacci_index': vinculación de DLL incoherente
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\BibliotecaDinamica\MathLibrary.h(34,37): message : vea la definición anterior de 'fibonacci_index'
+  Generando código...
+     Creando biblioteca C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\x64\Debug\BibliotecaDinamica.lib y objeto C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\x64\Debug\BibliotecaDinamica.exp
+  BibliotecaDinamica.vcxproj -> C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\x64\Debug\BibliotecaDinamica.dll

@@ -24,6 +24,7 @@
     <ProjectGuid>{4bdfd85a-afbc-4063-86e2-6515ba61c89f}</ProjectGuid>
     <RootNamespace>DllparaCSHARP</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Dll para CSharp</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,10 +140,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="LIBRERIA_COMPARTIDA.h" />
+    <ClInclude Include="shared_lib.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LIBRERIA_COMPARTIDA.cpp" />
+    <ClCompile Include="shared_lib.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="build.bat" />

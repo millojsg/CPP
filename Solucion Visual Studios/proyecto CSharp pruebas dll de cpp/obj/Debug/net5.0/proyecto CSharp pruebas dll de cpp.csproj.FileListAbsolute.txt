@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\bin\Debug\net5.0\proyecto CSharp pruebas dll de cpp.exe
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\bin\Debug\net5.0\proyecto CSharp pruebas dll de cpp.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\bin\Debug\net5.0\proyecto CSharp pruebas dll de cpp.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\bin\Debug\net5.0\proyecto CSharp pruebas dll de cpp.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\bin\Debug\net5.0\proyecto CSharp pruebas dll de cpp.dll
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\bin\Debug\net5.0\ref\proyecto CSharp pruebas dll de cpp.dll
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\bin\Debug\net5.0\proyecto CSharp pruebas dll de cpp.pdb
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\obj\Debug\net5.0\proyecto CSharp pruebas dll de cpp.csproj.AssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\obj\Debug\net5.0\proyecto CSharp pruebas dll de cpp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\obj\Debug\net5.0\proyecto CSharp pruebas dll de cpp.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\obj\Debug\net5.0\proyecto CSharp pruebas dll de cpp.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\obj\Debug\net5.0\proyecto CSharp pruebas dll de cpp.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\obj\Debug\net5.0\proyecto CSharp pruebas dll de cpp.dll
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\obj\Debug\net5.0\ref\proyecto CSharp pruebas dll de cpp.dll
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\obj\Debug\net5.0\proyecto CSharp pruebas dll de cpp.pdb
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\proyecto CSharp pruebas dll de cpp\obj\Debug\net5.0\proyecto CSharp pruebas dll de cpp.genruntimeconfig.cache

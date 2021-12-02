@@ -1,15 +1,6 @@
 ﻿  LIBRERIA_COMPARTIDA.cpp
-C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.cpp(4,1): warning C4273: 'StrCat': vinculación de DLL incoherente
-C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.h(24,27): message : vea la definición anterior de 'StrCat'
-C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.cpp(6,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.cpp(10,1): warning C4273: 'StrCpy': vinculación de DLL incoherente
-C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.h(25,27): message : vea la definición anterior de 'StrCpy'
-C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.cpp(11,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.cpp(15,1): warning C4273: 'Add': vinculación de DLL incoherente
 C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.h(26,26): message : vea la definición anterior de 'Add'
-C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.cpp(20,1): warning C4273: 'PipeCommand': vinculación de DLL incoherente
-C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.h(27,27): message : vea la definición anterior de 'PipeCommand'
-C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.cpp(22,15): error C3861: 'popen': no se encontró el identificador
-C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.cpp(33,2): error C3861: 'pclose': no se encontró el identificador
-C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.cpp(37,1): warning C4273: 'SaySomething': vinculación de DLL incoherente
-C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\Dll para CSHARP\LIBRERIA_COMPARTIDA.h(28,27): message : vea la definición anterior de 'SaySomething'
+     Creando biblioteca C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\x64\Debug\Dll para CSharp.lib y objeto C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\x64\Debug\Dll para CSharp.exp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo main sin resolver al que se hace referencia en la función "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Desarrollo\Documents\GitHub\CPP\Solucion Visual Studios\x64\Debug\Dll para CSharp.exe : fatal error LNK1120: 1 externos sin resolver

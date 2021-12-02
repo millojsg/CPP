@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="LIBRERIA_COMPARTIDA.h">
+    <ClInclude Include="shared_lib.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="LIBRERIA_COMPARTIDA.cpp">
+    <ClCompile Include="shared_lib.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
