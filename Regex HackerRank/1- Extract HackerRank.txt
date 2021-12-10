@@ -1,0 +1,36 @@
+/*
+Regular expression (or RegEx)
+A regular expression is a sequence of characters that define a search pattern. It is mainly used for string pattern matching.
+Regular expressions are extremely useful in extracting information from text such as: code, log files, spreadsheets, documents, etc.
+We can match a specific string  in a test string  by making our regex pattern . This is one of the simplest patterns. However, in the 
+coming challenges, we'll see how well we can match more complex patterns and learn about their syntax.
+
+Task
+You have a test string . Your task is to match the string hackerrank. This is case sensitive.
+
+Note
+This is a regex only challenge. You are not required to write code.
+You only have to fill in the regex pattern in the blank (_________).
+*/
+
+#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
+#include <regex>
+
+using namespace std;
+
+int main() {
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    std::regex r("hackerrank");
+    std::smatch matchs;
+    std::string str;
+    unsigned int cnt = 0;
+    while(std::cin >> str) {
+    if(std::regex_search(str, matchs, r)) ++cnt;
+    }
+    printf("Number of matches : %d", cnt);
+    return 0;
+}

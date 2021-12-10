@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "W5cHpSwLfDuttO50yIEwk8E2OxM7AKCSslX/8GOgp1aib/5N7Ftam4PSoyShQ+pAVXR1XRyxGAtjVT13682XZQ==",
+  "dgSpecHash": "QfaL/c3JIkLXTJQcxWoH6+Ay5i2j7sFHJNFfPzH4r3LNGQUwisaKnRfOmcvc6uDQ8KKjYxTB9YbCzOzNBKTBJQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Desarrollo\\Documents\\GitHub\\CPP\\Solucion Visual Studios\\proyecto CSharp pruebas dll de cpp\\proyecto CSharp pruebas dll de cpp.csproj",
   "expectedPackageFiles": [
@@ -13,7 +13,8 @@
     "C:\\Users\\Desarrollo\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
     "C:\\Users\\Desarrollo\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
     "C:\\Users\\Desarrollo\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
-    "C:\\Users\\Desarrollo\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
+    "C:\\Users\\Desarrollo\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Desarrollo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }

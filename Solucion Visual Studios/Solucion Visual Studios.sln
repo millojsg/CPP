@@ -31,6 +31,21 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BibliotecaDinamica", "Bibli
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsumirBibliotecaDinamica", "ConsumirBibliotecaDinamica\ConsumirBibliotecaDinamica.vcxproj", "{1A43770F-5B3C-49F0-B624-CB564E195CF5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HackerRank", "HackerRank", "{CAFBC16C-6CCE-4F2E-836D-2387001D7CD5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2 Reto HackerRank - Tipos de datos", "2 Reto HackerRank\2 Reto HackerRank.vcxproj", "{9CFAE235-6CAF-4CC2-BC0C-53ECF0A0F4A4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "REGEX 2 Reto HackerRank - Mathing anything except a new line", "REGEX 2 Reto HackerRank - Mathing anything except a new line\REGEX 2 Reto HackerRank - Mathing anything except a new line.vcxproj", "{95B0A1FD-E0B0-4246-AD26-A9BC98672E22}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A53D8B8F-473A-4AF9-87C4-DA4A5EDD2147}"
+	ProjectSection(SolutionItems) = preProject
+		Notas.txt = Notas.txt
+		regEx - la chuleta.pdf = regEx - la chuleta.pdf
+		Regular expression syntax reference .pdf = Regular expression syntax reference .pdf
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3  Reto HackerRank - Condicional If", "3  Reto HackerRank - Condicional If\3  Reto HackerRank - Condicional If.vcxproj", "{6EF11C15-67C4-4693-8717-4BD126005934}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -185,9 +200,44 @@ Global
 		{1A43770F-5B3C-49F0-B624-CB564E195CF5}.Release|x64.Build.0 = Release|x64
 		{1A43770F-5B3C-49F0-B624-CB564E195CF5}.Release|x86.ActiveCfg = Release|Win32
 		{1A43770F-5B3C-49F0-B624-CB564E195CF5}.Release|x86.Build.0 = Release|Win32
+		{9CFAE235-6CAF-4CC2-BC0C-53ECF0A0F4A4}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{9CFAE235-6CAF-4CC2-BC0C-53ECF0A0F4A4}.Debug|x64.ActiveCfg = Debug|x64
+		{9CFAE235-6CAF-4CC2-BC0C-53ECF0A0F4A4}.Debug|x64.Build.0 = Debug|x64
+		{9CFAE235-6CAF-4CC2-BC0C-53ECF0A0F4A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{9CFAE235-6CAF-4CC2-BC0C-53ECF0A0F4A4}.Debug|x86.Build.0 = Debug|Win32
+		{9CFAE235-6CAF-4CC2-BC0C-53ECF0A0F4A4}.Release|Any CPU.ActiveCfg = Release|Win32
+		{9CFAE235-6CAF-4CC2-BC0C-53ECF0A0F4A4}.Release|x64.ActiveCfg = Release|x64
+		{9CFAE235-6CAF-4CC2-BC0C-53ECF0A0F4A4}.Release|x64.Build.0 = Release|x64
+		{9CFAE235-6CAF-4CC2-BC0C-53ECF0A0F4A4}.Release|x86.ActiveCfg = Release|Win32
+		{9CFAE235-6CAF-4CC2-BC0C-53ECF0A0F4A4}.Release|x86.Build.0 = Release|Win32
+		{95B0A1FD-E0B0-4246-AD26-A9BC98672E22}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{95B0A1FD-E0B0-4246-AD26-A9BC98672E22}.Debug|x64.ActiveCfg = Debug|x64
+		{95B0A1FD-E0B0-4246-AD26-A9BC98672E22}.Debug|x64.Build.0 = Debug|x64
+		{95B0A1FD-E0B0-4246-AD26-A9BC98672E22}.Debug|x86.ActiveCfg = Debug|Win32
+		{95B0A1FD-E0B0-4246-AD26-A9BC98672E22}.Debug|x86.Build.0 = Debug|Win32
+		{95B0A1FD-E0B0-4246-AD26-A9BC98672E22}.Release|Any CPU.ActiveCfg = Release|Win32
+		{95B0A1FD-E0B0-4246-AD26-A9BC98672E22}.Release|x64.ActiveCfg = Release|x64
+		{95B0A1FD-E0B0-4246-AD26-A9BC98672E22}.Release|x64.Build.0 = Release|x64
+		{95B0A1FD-E0B0-4246-AD26-A9BC98672E22}.Release|x86.ActiveCfg = Release|Win32
+		{95B0A1FD-E0B0-4246-AD26-A9BC98672E22}.Release|x86.Build.0 = Release|Win32
+		{6EF11C15-67C4-4693-8717-4BD126005934}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{6EF11C15-67C4-4693-8717-4BD126005934}.Debug|x64.ActiveCfg = Debug|x64
+		{6EF11C15-67C4-4693-8717-4BD126005934}.Debug|x64.Build.0 = Debug|x64
+		{6EF11C15-67C4-4693-8717-4BD126005934}.Debug|x86.ActiveCfg = Debug|Win32
+		{6EF11C15-67C4-4693-8717-4BD126005934}.Debug|x86.Build.0 = Debug|Win32
+		{6EF11C15-67C4-4693-8717-4BD126005934}.Release|Any CPU.ActiveCfg = Release|Win32
+		{6EF11C15-67C4-4693-8717-4BD126005934}.Release|x64.ActiveCfg = Release|x64
+		{6EF11C15-67C4-4693-8717-4BD126005934}.Release|x64.Build.0 = Release|x64
+		{6EF11C15-67C4-4693-8717-4BD126005934}.Release|x86.ActiveCfg = Release|Win32
+		{6EF11C15-67C4-4693-8717-4BD126005934}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9CFAE235-6CAF-4CC2-BC0C-53ECF0A0F4A4} = {CAFBC16C-6CCE-4F2E-836D-2387001D7CD5}
+		{95B0A1FD-E0B0-4246-AD26-A9BC98672E22} = {CAFBC16C-6CCE-4F2E-836D-2387001D7CD5}
+		{6EF11C15-67C4-4693-8717-4BD126005934} = {CAFBC16C-6CCE-4F2E-836D-2387001D7CD5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B99905C9-BE01-401E-9B2B-F3E201B42E1E}

@@ -1,0 +1,19 @@
+Some C++ data types, their format specifiers, and their most common bit widths are as follows:
+
+	Int ("%d"): 32 Bit integer
+	Long ("%ld"): 64 bit integer
+	Char ("%c"): Character type
+	Float ("%f"): 32 bit real value
+	Double ("%lf"): 64 bit real value
+
+Para leer entradas se puede usar scanf.
+Primero se colocar el formato de entrada.
+	char ch;
+	double d;
+	scanf("%c %lf", &ch, &d);
+
+Para mostrar datos. Salida se puede usar printf. 
+Primero se coloca el formato a salir.
+char ch = 'd';
+double d = 234.432;
+printf("%c %lf", ch, d);
