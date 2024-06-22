@@ -1,6 +1,7 @@
-#include <cstdio>
-#include <conio.h>
 #include <locale.h>
+#include <cstdio>
+#include <stdio.h>
+#include <conio.h>
 #include <string>
 #include <windows.h>
 
@@ -15,7 +16,7 @@ public:
 
     string Nombre; // Propiedad 
 
-    string toString(); // Método
+    wchar_t toString(); // Método
 
 private: 
     int _edad;
@@ -25,7 +26,7 @@ Persona::Persona(string nombre, int edad) { Nombre= nombre, _edad = edad; }
 
 Persona::~Persona() { _edad = 0; Nombre = ""; }
 
-string Persona::toString() { return Nombre + ", tiene: " + to_string(_edad) + " años."; }
+wchar_t Persona::toString() { return L"" + Nombre + ", tiene: " + to_string(_edad) + " años."; }
 
 
 
@@ -37,7 +38,7 @@ int main()
 
     Persona Emilio("Emilio", 35);
 
-    printf("Años");
-
+    printf("%s\n", Emilio.toString());
+   
    _getch();
 }
